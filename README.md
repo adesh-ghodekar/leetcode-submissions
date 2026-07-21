@@ -14,6 +14,7 @@
 | [0001-two-sum](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
