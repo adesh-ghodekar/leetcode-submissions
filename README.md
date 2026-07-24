@@ -14,6 +14,7 @@
 | [0001-two-sum](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0189-rotate-array) |
@@ -51,5 +52,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
