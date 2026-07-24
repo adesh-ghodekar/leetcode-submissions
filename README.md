@@ -19,6 +19,7 @@
 | [0189-rotate-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/1672-richest-customer-wealth) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
