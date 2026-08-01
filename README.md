@@ -17,6 +17,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0162-find-peak-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
