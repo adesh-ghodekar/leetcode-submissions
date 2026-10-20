@@ -14,6 +14,7 @@
 | [0001-two-sum](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0066-plus-one) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0283-move-zeroes) |
