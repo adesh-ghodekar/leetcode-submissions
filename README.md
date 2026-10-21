@@ -49,6 +49,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -84,4 +85,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
