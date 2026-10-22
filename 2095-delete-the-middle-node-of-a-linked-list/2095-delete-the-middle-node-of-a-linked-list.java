@@ -20,7 +20,6 @@ class Solution {
             fast=fast.next.next;
             prevSlow=slow;
             slow=slow.next;
-            prevSlow.next=slow;
         }
         prevSlow.next=slow.next;
         return head;
