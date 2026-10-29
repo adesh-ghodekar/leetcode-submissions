@@ -56,6 +56,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -87,6 +88,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Union-Find
 |  |
@@ -111,4 +113,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0141-linked-list-cycle) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
