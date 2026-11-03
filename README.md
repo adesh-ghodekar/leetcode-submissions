@@ -18,6 +18,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
@@ -87,6 +89,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
