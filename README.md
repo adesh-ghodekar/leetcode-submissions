@@ -27,6 +27,7 @@
 | [0136-single-number](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -41,6 +42,7 @@
 | [0001-two-sum](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0229-majority-element-ii](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,4 +134,13 @@
 | ------- |
 | [0015-3sum](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0018-4sum) |
+| [0229-majority-element-ii](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
