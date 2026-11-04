@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0031-next-permutation) |
@@ -42,6 +43,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0027-remove-element) |
@@ -123,4 +125,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
