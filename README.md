@@ -26,6 +26,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0229-majority-element-ii) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/adesh-ghodekar/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 ## Union-Find
 |  |
 | ------- |
